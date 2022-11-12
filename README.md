@@ -5,12 +5,15 @@
 I am currently working:
 
 🧬 On a computational biology project at the University of Calgary on squamous cell cancer data
+
 🧑‍💻 As a Full Stack Developer with a startup called Innovenium Technologies Inc.
+
 🏫 on the leadership teams as a Grade 12 student in my high schools Robotics Team, MUN Club and Investment Club
 
 I have previous experience in:
 
 🔬 A computational biology project at the University of Calgary where I created an ML pipeline to determine significantly interacting genes and pathways in cancer
+
 💻 Various school and personal programming projects
 
 🌱 I am currently learning or have experience in: R programming, Java, C++, Python, React-native, HTML + CSS 
@@ -18,6 +21,7 @@ I have previous experience in:
 📫 How to reach me:
 
 Linkedin: https://www.linkedin.com/in/shrey-ghosh/
+
 E-mail: shreysaikatghosh@outlook.com
 
 <!---
