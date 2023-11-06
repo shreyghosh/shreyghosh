@@ -4,15 +4,15 @@
 
 I am currently working:
 
-🧬 On a computational biology project at the University of Calgary on squamous cell cancer data
+🧱 As a researcher for Illini Blockchain @ UIUC
+
+I have previous experience:
+
+👔 As a Software Development Intern @ Accolite Digital
 
 🧑‍💻 As a Full Stack Developer with a startup called Innovenium Technologies Inc.
 
-🏫 on the leadership teams as a Grade 12 student in my high schools Robotics Team, MUN Club and Investment Club
-
-I have previous experience in:
-
-🔬 A computational biology project at the University of Calgary where I created an ML pipeline to determine significantly interacting genes and pathways in cancer
+🔬 In a computational biology project at the University of Calgary where I created an ML pipeline to determine significantly interacting genes and pathways in cancer
 
 💻 Various school and personal programming projects
 
