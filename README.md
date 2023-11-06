@@ -1,6 +1,6 @@
 👋 Hi, I’m @shreyghosh
 
-🎓 I am a high school student who has a love for technology, a passion for Computer Science and a mind for innovation.
+🎓 I am a CS undergrad at UIUC who has a love for technology, a passion for Computer Science and a mind for innovation.
 
 I am currently working:
 
