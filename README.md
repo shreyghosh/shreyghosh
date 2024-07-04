@@ -4,9 +4,11 @@
 
 I am currently working:
 
-🧱 As a researcher for Illini Blockchain @ UIUC
+⚙️ As a Software Engineering Intern @ Nutrien
 
 I have previous experience:
+
+🧱 As a researcher for Illini Blockchain @ UIUC
 
 👔 As a Software Development Intern @ Accolite Digital
 
