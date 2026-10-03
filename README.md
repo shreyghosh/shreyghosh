@@ -26,6 +26,8 @@ Linkedin: https://www.linkedin.com/in/shrey-ghosh/
 
 E-mail: shreysaikatghosh@outlook.com
 
+Leetcode: https://leetcode.com/u/shreyghosh/
+
 <!---
 shreyghosh/shreyghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
